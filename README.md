@@ -1,4 +1,4 @@
-# Volvere IT Solutions Task
+# System Information Utility
 ## Overview
 This Python script retrieves various details about the system, including information about the installed software, internet speed, CPU and GPU details, RAM size, screen resolution, network information, and more.
 
